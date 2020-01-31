@@ -1,0 +1,40 @@
+ebook_metadata:
+  title: ༄༅། །དེ་བཞིན་གཤེགས་པའི་སྙིང་པོ་བསྟན་པ་ཞེས་བྱ་བའི་བསྟན་བཅོས་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཀརྨ་པ་རང་བྱུང་རྡོ་རྗེ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  sku: LEK-PHI-021
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+  - yigchung
+web_metadata:
+  title:
+    en: A Discourse on the Presentation of Buddha Nature
+    bo: དེ་བཞིན་གཤེགས་པའི་སྙིང་པོ་བསྟན་པ་ཞེས་བྱ་བའི་བསྟན་བཅོས་ཞེས་བྱ་བ་བཞུགས་སོ།།
+  collection:
+    en: Lekshey Ling Philosophy Series–  Book 21
+    bo: ལེགས་བཤད་གླིང་རིགས་པའི་གཞུང་ལུགས།–  དེབ། ༢༡
+  author:
+    en: Authors:Jamgon Kongtrul Lodro Thaye,Third Karmapa Rangjung Dorje
+    bo: ཀརྨ་པ་སྐུ་ཕྲེང་གསུམ་པ་རང་བྱུང་རྡོ་རྗེ།,འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  pusblisher:
+    en: Lekshey Ling Publications
+    bo: ཀརྨ་ལེགས་བཤད་གླིང།
+  sku: LEK-PHI-021
+  category:
+    en: Buddha Nature
+    bo: བདེ་གཤེགས་སྙིང་པོ།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LEK-PHI-021.epub
+  description:
+    en: ''
+    bo: ''
