@@ -1,9 +1,10 @@
-ebook_metadata:
+id: P000027
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །དེ་བཞིན་གཤེགས་པའི་སྙིང་པོ་བསྟན་པ་ཞེས་བྱ་བའི་བསྟན་བཅོས་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཀརྨ་པ་རང་བྱུང་རྡོ་རྗེ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
-  sku: LEK-PHI-021
   layers:
   - book_title
   - author
@@ -12,6 +13,7 @@ ebook_metadata:
   - quotation
   - sabche
   - yigchung
+  id: LEK-PHI-021
 web_metadata:
   title:
     en: A Discourse on the Presentation of Buddha Nature
